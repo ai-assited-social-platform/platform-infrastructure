@@ -1,0 +1,12 @@
+# Runtime folders - generated during local setup
+apps/
+services/
+workers/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
